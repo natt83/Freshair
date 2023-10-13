@@ -1,0 +1,20 @@
+.contenedor{float:left;
+}
+.banner{
+width: 1700px;
+height: 200px;}
+
+.contenedor1 .whitecat{
+    float:left;
+    padding:6%;
+    margin-left: 22%;
+
+}
+.contenedor2 .redpanda{
+    float:none;
+    padding-left:10%;
+
+}
+.redpanda{ padding-top:6%;}
+
+
